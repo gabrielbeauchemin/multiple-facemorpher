@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<qsmd xml:lang="en" title="qStopMotion" xmlns="http://www.qstopmotion.org/xmltemplates/Language">
+  <version>1.0</version>
+  <settings>
+    <recordingmode>0</recordingmode>
+    <unitmode>1</unitmode>
+    <unitcount>5</unitcount>
+    <beepstate>1</beepstate>
+    <beepcount>5</beepcount>
+    <videosource>0</videosource>
+    <videoresolution>0</videoresolution>
+    <mixmode>0</mixmode>
+    <mixcount>2</mixcount>
+    <overlayintensity>100</overlayintensity>
+    <imageformat>0</imageformat>
+    <imagequality>100</imagequality>
+    <imagesize>0</imagesize>
+    <imagetransformation>0</imagetransformation>
+    <imageadjustment>7</imageadjustment>
+    <zoomvalue>20</zoomvalue>
+    <liveviewfps>2</liveviewfps>
+    <encoderapplication>0</encoderapplication>
+    <videoformat>1</videoformat>
+    <videosize>1</videosize>
+    <videofps>30</videofps>
+    <usedefaultoutputfile>0</usedefaultoutputfile>
+    <defaultoutputfilename></defaultoutputfilename>
+  </settings>
+  <animation descr="Le projet">
+    <scene descr="Scène 001" id="000">
+      <take descr="Prise de vue 01" id="00">
+        <exposure id="0000">
+          <theframe>000000.jpg</theframe>
+        </exposure>
+        <exposure id="0001">
+          <theframe>000001.jpg</theframe>
+        </exposure>
+        <exposure id="0002">
+          <theframe>000002.jpg</theframe>
+        </exposure>
+        <exposure id="0003">
+          <theframe>000003.jpg</theframe>
+        </exposure>
+        <exposure id="0004">
+          <theframe>000004.jpg</theframe>
+        </exposure>
+        <exposure id="0005">
+          <theframe>000005.jpg</theframe>
+        </exposure>
+        <exposure id="0006">
+          <theframe>000006.jpg</theframe>
+        </exposure>
+        <exposure id="0007">
+          <theframe>000007.jpg</theframe>
+        </exposure>
+        <exposure id="0008">
+          <theframe>000008.jpg</theframe>
+        </exposure>
+        <exposure id="0009">
+          <theframe>000009.jpg</theframe>
+        </exposure>
+        <exposure id="0010">
+          <theframe>000010.jpg</theframe>
+        </exposure>
+        <exposure id="0011">
+          <theframe>000011.jpg</theframe>
+        </exposure>
+        <exposure id="0012">
+          <theframe>000012.jpg</theframe>
+        </exposure>
+        <exposure id="0013">
+          <theframe>000013.jpg</theframe>
+        </exposure>
+        <exposure id="0014">
+          <theframe>000014.jpg</theframe>
+        </exposure>
+        <exposure id="0015">
+          <theframe>000015.jpg</theframe>
+        </exposure>
+        <exposure id="0016">
+          <theframe>000016.jpg</theframe>
+        </exposure>
+        <exposure id="0017">
+          <theframe>000017.jpg</theframe>
+        </exposure>
+        <exposure id="0018">
+          <theframe>000018.jpg</theframe>
+        </exposure>
+        <exposure id="0019">
+          <theframe>000019.jpg</theframe>
+        </exposure>
+        <exposure id="0020">
+          <theframe>000020.jpg</theframe>
+        </exposure>
+        <exposure id="0021">
+          <theframe>000021.jpg</theframe>
+        </exposure>
+        <exposure id="0022">
+          <theframe>000022.jpg</theframe>
+        </exposure>
+        <exposure id="0023">
+          <theframe>000023.jpg</theframe>
+        </exposure>
+        <exposure id="0024">
+          <theframe>000024.jpg</theframe>
+        </exposure>
+        <exposure id="0025">
+          <theframe>000025.jpg</theframe>
+        </exposure>
+        <exposure id="0026">
+          <theframe>000026.jpg</theframe>
+        </exposure>
+        <exposure id="0027">
+          <theframe>000027.jpg</theframe>
+        </exposure>
+        <exposure id="0028">
+          <theframe>000028.jpg</theframe>
+        </exposure>
+        <exposure id="0029">
+          <theframe>000029.jpg</theframe>
+        </exposure>
+        <exposure id="0030">
+          <theframe>000030.jpg</theframe>
+        </exposure>
+        <exposure id="0031">
+          <theframe>000031.jpg</theframe>
+        </exposure>
+        <exposure id="0032">
+          <theframe>000032.jpg</theframe>
+        </exposure>
+        <exposure id="0033">
+          <theframe>000033.jpg</theframe>
+        </exposure>
+        <exposure id="0034">
+          <theframe>000034.jpg</theframe>
+        </exposure>
+        <exposure id="0035">
+          <theframe>000035.jpg</theframe>
+        </exposure>
+        <exposure id="0036">
+          <theframe>000036.jpg</theframe>
+        </exposure>
+        <exposure id="0037">
+          <theframe>000037.jpg</theframe>
+        </exposure>
+        <exposure id="0038">
+          <theframe>000038.jpg</theframe>
+        </exposure>
+        <exposure id="0039">
+          <theframe>000039.jpg</theframe>
+        </exposure>
+        <exposure id="0040">
+          <theframe>000040.jpg</theframe>
+        </exposure>
+        <exposure id="0041">
+          <theframe>000041.jpg</theframe>
+        </exposure>
+        <exposure id="0042">
+          <theframe>000042.jpg</theframe>
+        </exposure>
+        <exposure id="0043">
+          <theframe>000043.jpg</theframe>
+        </exposure>
+        <exposure id="0044">
+          <theframe>000044.jpg</theframe>
+        </exposure>
+        <exposure id="0045">
+          <theframe>000045.jpg</theframe>
+        </exposure>
+        <exposure id="0046">
+          <theframe>000046.jpg</theframe>
+        </exposure>
+        <exposure id="0047">
+          <theframe>000047.jpg</theframe>
+        </exposure>
+        <exposure id="0048">
+          <theframe>000048.jpg</theframe>
+        </exposure>
+        <exposure id="0049">
+          <theframe>000049.jpg</theframe>
+        </exposure>
+        <exposure id="0050">
+          <theframe>000050.jpg</theframe>
+        </exposure>
+        <exposure id="0051">
+          <theframe>000051.jpg</theframe>
+        </exposure>
+        <exposure id="0052">
+          <theframe>000052.jpg</theframe>
+        </exposure>
+        <exposure id="0053">
+          <theframe>000053.jpg</theframe>
+        </exposure>
+        <exposure id="0054">
+          <theframe>000054.jpg</theframe>
+        </exposure>
+        <exposure id="0055">
+          <theframe>000055.jpg</theframe>
+        </exposure>
+        <exposure id="0056">
+          <theframe>000056.jpg</theframe>
+        </exposure>
+        <exposure id="0057">
+          <theframe>000057.jpg</theframe>
+        </exposure>
+        <exposure id="0058">
+          <theframe>000058.jpg</theframe>
+        </exposure>
+        <exposure id="0059">
+          <theframe>000059.jpg</theframe>
+        </exposure>
+        <exposure id="0060">
+          <theframe>000060.jpg</theframe>
+        </exposure>
+        <exposure id="0061">
+          <theframe>000061.jpg</theframe>
+        </exposure>
+        <exposure id="0062">
+          <theframe>000062.jpg</theframe>
+        </exposure>
+        <exposure id="0063">
+          <theframe>000063.jpg</theframe>
+        </exposure>
+        <exposure id="0064">
+          <theframe>000064.jpg</theframe>
+        </exposure>
+        <exposure id="0065">
+          <theframe>000065.jpg</theframe>
+        </exposure>
+        <exposure id="0066">
+          <theframe>000066.jpg</theframe>
+        </exposure>
+        <exposure id="0067">
+          <theframe>000067.jpg</theframe>
+        </exposure>
+        <exposure id="0068">
+          <theframe>000068.jpg</theframe>
+        </exposure>
+        <exposure id="0069">
+          <theframe>000069.jpg</theframe>
+        </exposure>
+        <exposure id="0070">
+          <theframe>000070.jpg</theframe>
+        </exposure>
+        <exposure id="0071">
+          <theframe>000071.jpg</theframe>
+        </exposure>
+        <exposure id="0072">
+          <theframe>000072.jpg</theframe>
+        </exposure>
+        <exposure id="0073">
+          <theframe>000073.jpg</theframe>
+        </exposure>
+        <exposure id="0074">
+          <theframe>000074.jpg</theframe>
+        </exposure>
+        <exposure id="0075">
+          <theframe>000075.jpg</theframe>
+        </exposure>
+        <exposure id="0076">
+          <theframe>000076.jpg</theframe>
+        </exposure>
+        <exposure id="0077">
+          <theframe>000077.jpg</theframe>
+        </exposure>
+        <exposure id="0078">
+          <theframe>000078.jpg</theframe>
+        </exposure>
+        <exposure id="0079">
+          <theframe>000079.jpg</theframe>
+        </exposure>
+        <exposure id="0080">
+          <theframe>000080.jpg</theframe>
+        </exposure>
+        <exposure id="0081">
+          <theframe>000081.jpg</theframe>
+        </exposure>
+        <exposure id="0082">
+          <theframe>000082.jpg</theframe>
+        </exposure>
+        <exposure id="0083">
+          <theframe>000083.jpg</theframe>
+        </exposure>
+        <exposure id="0084">
+          <theframe>000084.jpg</theframe>
+        </exposure>
+        <exposure id="0085">
+          <theframe>000085.jpg</theframe>
+        </exposure>
+        <exposure id="0086">
+          <theframe>000086.jpg</theframe>
+        </exposure>
+        <exposure id="0087">
+          <theframe>000087.jpg</theframe>
+        </exposure>
+        <exposure id="0088">
+          <theframe>000088.jpg</theframe>
+        </exposure>
+        <exposure id="0089">
+          <theframe>000089.jpg</theframe>
+        </exposure>
+        <exposure id="0090">
+          <theframe>000090.jpg</theframe>
+        </exposure>
+        <exposure id="0091">
+          <theframe>000091.jpg</theframe>
+        </exposure>
+        <exposure id="0092">
+          <theframe>000092.jpg</theframe>
+        </exposure>
+        <exposure id="0093">
+          <theframe>000093.jpg</theframe>
+        </exposure>
+        <exposure id="0094">
+          <theframe>000094.jpg</theframe>
+        </exposure>
+        <exposure id="0095">
+          <theframe>000095.jpg</theframe>
+        </exposure>
+        <exposure id="0096">
+          <theframe>000096.jpg</theframe>
+        </exposure>
+        <exposure id="0097">
+          <theframe>000097.jpg</theframe>
+        </exposure>
+        <exposure id="0098">
+          <theframe>000098.jpg</theframe>
+        </exposure>
+        <exposure id="0099">
+          <theframe>000099.jpg</theframe>
+        </exposure>
+        <exposure id="0100">
+          <theframe>000100.jpg</theframe>
+        </exposure>
+        <exposure id="0101">
+          <theframe>000101.jpg</theframe>
+        </exposure>
+        <exposure id="0102">
+          <theframe>000102.jpg</theframe>
+        </exposure>
+        <exposure id="0103">
+          <theframe>000103.jpg</theframe>
+        </exposure>
+        <exposure id="0104">
+          <theframe>000104.jpg</theframe>
+        </exposure>
+        <exposure id="0105">
+          <theframe>000105.jpg</theframe>
+        </exposure>
+        <exposure id="0106">
+          <theframe>000106.jpg</theframe>
+        </exposure>
+        <exposure id="0107">
+          <theframe>000107.jpg</theframe>
+        </exposure>
+        <exposure id="0108">
+          <theframe>000108.jpg</theframe>
+        </exposure>
+        <exposure id="0109">
+          <theframe>000109.jpg</theframe>
+        </exposure>
+        <exposure id="0110">
+          <theframe>000110.jpg</theframe>
+        </exposure>
+        <exposure id="0111">
+          <theframe>000111.jpg</theframe>
+        </exposure>
+        <exposure id="0112">
+          <theframe>000112.jpg</theframe>
+        </exposure>
+        <exposure id="0113">
+          <theframe>000113.jpg</theframe>
+        </exposure>
+        <exposure id="0114">
+          <theframe>000114.jpg</theframe>
+        </exposure>
+        <exposure id="0115">
+          <theframe>000115.jpg</theframe>
+        </exposure>
+        <exposure id="0116">
+          <theframe>000116.jpg</theframe>
+        </exposure>
+        <exposure id="0117">
+          <theframe>000117.jpg</theframe>
+        </exposure>
+        <exposure id="0118">
+          <theframe>000118.jpg</theframe>
+        </exposure>
+        <exposure id="0119">
+          <theframe>000119.jpg</theframe>
+        </exposure>
+        <exposure id="0120">
+          <theframe>000120.jpg</theframe>
+        </exposure>
+        <exposure id="0121">
+          <theframe>000121.jpg</theframe>
+        </exposure>
+        <exposure id="0122">
+          <theframe>000122.jpg</theframe>
+        </exposure>
+        <exposure id="0123">
+          <theframe>000123.jpg</theframe>
+        </exposure>
+        <exposure id="0124">
+          <theframe>000124.jpg</theframe>
+        </exposure>
+        <exposure id="0125">
+          <theframe>000125.jpg</theframe>
+        </exposure>
+        <exposure id="0126">
+          <theframe>000126.jpg</theframe>
+        </exposure>
+        <exposure id="0127">
+          <theframe>000127.jpg</theframe>
+        </exposure>
+        <exposure id="0128">
+          <theframe>000128.jpg</theframe>
+        </exposure>
+        <exposure id="0129">
+          <theframe>000129.jpg</theframe>
+        </exposure>
+        <exposure id="0130">
+          <theframe>000130.jpg</theframe>
+        </exposure>
+        <exposure id="0131">
+          <theframe>000131.jpg</theframe>
+        </exposure>
+        <exposure id="0132">
+          <theframe>000132.jpg</theframe>
+        </exposure>
+        <exposure id="0133">
+          <theframe>000133.jpg</theframe>
+        </exposure>
+        <exposure id="0134">
+          <theframe>000134.jpg</theframe>
+        </exposure>
+        <exposure id="0135">
+          <theframe>000135.jpg</theframe>
+        </exposure>
+        <exposure id="0136">
+          <theframe>000136.jpg</theframe>
+        </exposure>
+        <exposure id="0137">
+          <theframe>000137.jpg</theframe>
+        </exposure>
+        <exposure id="0138">
+          <theframe>000138.jpg</theframe>
+        </exposure>
+        <exposure id="0139">
+          <theframe>000139.jpg</theframe>
+        </exposure>
+        <exposure id="0140">
+          <theframe>000140.jpg</theframe>
+        </exposure>
+        <exposure id="0141">
+          <theframe>000141.jpg</theframe>
+        </exposure>
+        <exposure id="0142">
+          <theframe>000142.jpg</theframe>
+        </exposure>
+        <exposure id="0143">
+          <theframe>000143.jpg</theframe>
+        </exposure>
+        <exposure id="0144">
+          <theframe>000144.jpg</theframe>
+        </exposure>
+        <exposure id="0145">
+          <theframe>000145.jpg</theframe>
+        </exposure>
+        <exposure id="0146">
+          <theframe>000146.jpg</theframe>
+        </exposure>
+        <exposure id="0147">
+          <theframe>000147.jpg</theframe>
+        </exposure>
+        <exposure id="0148">
+          <theframe>000148.jpg</theframe>
+        </exposure>
+        <exposure id="0149">
+          <theframe>000149.jpg</theframe>
+        </exposure>
+        <exposure id="0150">
+          <theframe>000150.jpg</theframe>
+        </exposure>
+        <exposure id="0151">
+          <theframe>000151.jpg</theframe>
+        </exposure>
+        <exposure id="0152">
+          <theframe>000152.jpg</theframe>
+        </exposure>
+        <exposure id="0153">
+          <theframe>000153.jpg</theframe>
+        </exposure>
+        <exposure id="0154">
+          <theframe>000154.jpg</theframe>
+        </exposure>
+        <exposure id="0155">
+          <theframe>000155.jpg</theframe>
+        </exposure>
+        <exposure id="0156">
+          <theframe>000156.jpg</theframe>
+        </exposure>
+        <exposure id="0157">
+          <theframe>000157.jpg</theframe>
+        </exposure>
+        <exposure id="0158">
+          <theframe>000158.jpg</theframe>
+        </exposure>
+        <exposure id="0159">
+          <theframe>000159.jpg</theframe>
+        </exposure>
+        <exposure id="0160">
+          <theframe>000160.jpg</theframe>
+        </exposure>
+        <exposure id="0161">
+          <theframe>000161.jpg</theframe>
+        </exposure>
+        <exposure id="0162">
+          <theframe>000162.jpg</theframe>
+        </exposure>
+        <exposure id="0163">
+          <theframe>000163.jpg</theframe>
+        </exposure>
+        <exposure id="0164">
+          <theframe>000164.jpg</theframe>
+        </exposure>
+        <exposure id="0165">
+          <theframe>000165.jpg</theframe>
+        </exposure>
+        <exposure id="0166">
+          <theframe>000166.jpg</theframe>
+        </exposure>
+        <exposure id="0167">
+          <theframe>000167.jpg</theframe>
+        </exposure>
+        <exposure id="0168">
+          <theframe>000168.jpg</theframe>
+        </exposure>
+        <exposure id="0169">
+          <theframe>000169.jpg</theframe>
+        </exposure>
+        <exposure id="0170">
+          <theframe>000170.jpg</theframe>
+        </exposure>
+        <exposure id="0171">
+          <theframe>000171.jpg</theframe>
+        </exposure>
+        <exposure id="0172">
+          <theframe>000172.jpg</theframe>
+        </exposure>
+        <exposure id="0173">
+          <theframe>000173.jpg</theframe>
+        </exposure>
+        <exposure id="0174">
+          <theframe>000174.jpg</theframe>
+        </exposure>
+        <exposure id="0175">
+          <theframe>000175.jpg</theframe>
+        </exposure>
+        <exposure id="0176">
+          <theframe>000176.jpg</theframe>
+        </exposure>
+        <exposure id="0177">
+          <theframe>000177.jpg</theframe>
+        </exposure>
+        <exposure id="0178">
+          <theframe>000178.jpg</theframe>
+        </exposure>
+        <exposure id="0179">
+          <theframe>000179.jpg</theframe>
+        </exposure>
+        <exposure id="0180">
+          <theframe>000180.jpg</theframe>
+        </exposure>
+        <exposure id="0181">
+          <theframe>000181.jpg</theframe>
+        </exposure>
+        <exposure id="0182">
+          <theframe>000182.jpg</theframe>
+        </exposure>
+        <exposure id="0183">
+          <theframe>000183.jpg</theframe>
+        </exposure>
+        <exposure id="0184">
+          <theframe>000184.jpg</theframe>
+        </exposure>
+        <exposure id="0185">
+          <theframe>000185.jpg</theframe>
+        </exposure>
+        <exposure id="0186">
+          <theframe>000186.jpg</theframe>
+        </exposure>
+        <exposure id="0187">
+          <theframe>000187.jpg</theframe>
+        </exposure>
+        <exposure id="0188">
+          <theframe>000188.jpg</theframe>
+        </exposure>
+        <exposure id="0189">
+          <theframe>000189.jpg</theframe>
+        </exposure>
+        <exposure id="0190">
+          <theframe>000190.jpg</theframe>
+        </exposure>
+        <exposure id="0191">
+          <theframe>000191.jpg</theframe>
+        </exposure>
+        <exposure id="0192">
+          <theframe>000192.jpg</theframe>
+        </exposure>
+        <exposure id="0193">
+          <theframe>000193.jpg</theframe>
+        </exposure>
+        <exposure id="0194">
+          <theframe>000194.jpg</theframe>
+        </exposure>
+        <exposure id="0195">
+          <theframe>000195.jpg</theframe>
+        </exposure>
+        <exposure id="0196">
+          <theframe>000196.jpg</theframe>
+        </exposure>
+        <exposure id="0197">
+          <theframe>000197.jpg</theframe>
+        </exposure>
+        <exposure id="0198">
+          <theframe>000198.jpg</theframe>
+        </exposure>
+        <exposure id="0199">
+          <theframe>000199.jpg</theframe>
+        </exposure>
+        <exposure id="0200">
+          <theframe>000200.jpg</theframe>
+        </exposure>
+        <exposure id="0201">
+          <theframe>000201.jpg</theframe>
+        </exposure>
+        <exposure id="0202">
+          <theframe>000202.jpg</theframe>
+        </exposure>
+        <exposure id="0203">
+          <theframe>000203.jpg</theframe>
+        </exposure>
+        <exposure id="0204">
+          <theframe>000204.jpg</theframe>
+        </exposure>
+        <exposure id="0205">
+          <theframe>000205.jpg</theframe>
+        </exposure>
+        <exposure id="0206">
+          <theframe>000206.jpg</theframe>
+        </exposure>
+        <exposure id="0207">
+          <theframe>000207.jpg</theframe>
+        </exposure>
+        <exposure id="0208">
+          <theframe>000208.jpg</theframe>
+        </exposure>
+        <exposure id="0209">
+          <theframe>000209.jpg</theframe>
+        </exposure>
+        <exposure id="0210">
+          <theframe>000210.jpg</theframe>
+        </exposure>
+        <exposure id="0211">
+          <theframe>000211.jpg</theframe>
+        </exposure>
+        <exposure id="0212">
+          <theframe>000212.jpg</theframe>
+        </exposure>
+        <exposure id="0213">
+          <theframe>000213.jpg</theframe>
+        </exposure>
+        <exposure id="0214">
+          <theframe>000214.jpg</theframe>
+        </exposure>
+        <exposure id="0215">
+          <theframe>000215.jpg</theframe>
+        </exposure>
+        <exposure id="0216">
+          <theframe>000216.jpg</theframe>
+        </exposure>
+        <exposure id="0217">
+          <theframe>000217.jpg</theframe>
+        </exposure>
+        <exposure id="0218">
+          <theframe>000218.jpg</theframe>
+        </exposure>
+        <exposure id="0219">
+          <theframe>000219.jpg</theframe>
+        </exposure>
+        <exposure id="0220">
+          <theframe>000220.jpg</theframe>
+        </exposure>
+        <exposure id="0221">
+          <theframe>000221.jpg</theframe>
+        </exposure>
+        <exposure id="0222">
+          <theframe>000222.jpg</theframe>
+        </exposure>
+        <exposure id="0223">
+          <theframe>000223.jpg</theframe>
+        </exposure>
+        <exposure id="0224">
+          <theframe>000224.jpg</theframe>
+        </exposure>
+        <exposure id="0225">
+          <theframe>000225.jpg</theframe>
+        </exposure>
+        <exposure id="0226">
+          <theframe>000226.jpg</theframe>
+        </exposure>
+        <exposure id="0227">
+          <theframe>000227.jpg</theframe>
+        </exposure>
+        <exposure id="0228">
+          <theframe>000228.jpg</theframe>
+        </exposure>
+        <exposure id="0229">
+          <theframe>000229.jpg</theframe>
+        </exposure>
+        <exposure id="0230">
+          <theframe>000230.jpg</theframe>
+        </exposure>
+        <exposure id="0231">
+          <theframe>000231.jpg</theframe>
+        </exposure>
+        <exposure id="0232">
+          <theframe>000232.jpg</theframe>
+        </exposure>
+        <exposure id="0233">
+          <theframe>000233.jpg</theframe>
+        </exposure>
+        <exposure id="0234">
+          <theframe>000234.jpg</theframe>
+        </exposure>
+        <exposure id="0235">
+          <theframe>000235.jpg</theframe>
+        </exposure>
+        <exposure id="0236">
+          <theframe>000236.jpg</theframe>
+        </exposure>
+        <exposure id="0237">
+          <theframe>000237.jpg</theframe>
+        </exposure>
+        <exposure id="0238">
+          <theframe>000238.jpg</theframe>
+        </exposure>
+        <exposure id="0239">
+          <theframe>000239.jpg</theframe>
+        </exposure>
+        <exposure id="0240">
+          <theframe>000240.jpg</theframe>
+        </exposure>
+        <exposure id="0241">
+          <theframe>000241.jpg</theframe>
+        </exposure>
+        <exposure id="0242">
+          <theframe>000242.jpg</theframe>
+        </exposure>
+        <exposure id="0243">
+          <theframe>000243.jpg</theframe>
+        </exposure>
+        <exposure id="0244">
+          <theframe>000244.jpg</theframe>
+        </exposure>
+        <exposure id="0245">
+          <theframe>000245.jpg</theframe>
+        </exposure>
+        <exposure id="0246">
+          <theframe>000246.jpg</theframe>
+        </exposure>
+        <exposure id="0247">
+          <theframe>000247.jpg</theframe>
+        </exposure>
+        <exposure id="0248">
+          <theframe>000248.jpg</theframe>
+        </exposure>
+        <exposure id="0249">
+          <theframe>000249.jpg</theframe>
+        </exposure>
+        <exposure id="0250">
+          <theframe>000250.jpg</theframe>
+        </exposure>
+        <exposure id="0251">
+          <theframe>000251.jpg</theframe>
+        </exposure>
+        <exposure id="0252">
+          <theframe>000252.jpg</theframe>
+        </exposure>
+        <exposure id="0253">
+          <theframe>000253.jpg</theframe>
+        </exposure>
+        <exposure id="0254">
+          <theframe>000254.jpg</theframe>
+        </exposure>
+        <exposure id="0255">
+          <theframe>000255.jpg</theframe>
+        </exposure>
+        <exposure id="0256">
+          <theframe>000256.jpg</theframe>
+        </exposure>
+        <exposure id="0257">
+          <theframe>000257.jpg</theframe>
+        </exposure>
+        <exposure id="0258">
+          <theframe>000258.jpg</theframe>
+        </exposure>
+        <exposure id="0259">
+          <theframe>000259.jpg</theframe>
+        </exposure>
+        <exposure id="0260">
+          <theframe>000260.jpg</theframe>
+        </exposure>
+        <exposure id="0261">
+          <theframe>000261.jpg</theframe>
+        </exposure>
+        <exposure id="0262">
+          <theframe>000262.jpg</theframe>
+        </exposure>
+        <exposure id="0263">
+          <theframe>000263.jpg</theframe>
+        </exposure>
+        <exposure id="0264">
+          <theframe>000264.jpg</theframe>
+        </exposure>
+        <exposure id="0265">
+          <theframe>000265.jpg</theframe>
+        </exposure>
+        <exposure id="0266">
+          <theframe>000266.jpg</theframe>
+        </exposure>
+        <exposure id="0267">
+          <theframe>000267.jpg</theframe>
+        </exposure>
+        <exposure id="0268">
+          <theframe>000268.jpg</theframe>
+        </exposure>
+        <exposure id="0269">
+          <theframe>000269.jpg</theframe>
+        </exposure>
+        <exposure id="0270">
+          <theframe>000270.jpg</theframe>
+        </exposure>
+        <exposure id="0271">
+          <theframe>000271.jpg</theframe>
+        </exposure>
+        <exposure id="0272">
+          <theframe>000272.jpg</theframe>
+        </exposure>
+        <exposure id="0273">
+          <theframe>000273.jpg</theframe>
+        </exposure>
+        <exposure id="0274">
+          <theframe>000274.jpg</theframe>
+        </exposure>
+        <exposure id="0275">
+          <theframe>000275.jpg</theframe>
+        </exposure>
+        <exposure id="0276">
+          <theframe>000276.jpg</theframe>
+        </exposure>
+        <exposure id="0277">
+          <theframe>000277.jpg</theframe>
+        </exposure>
+        <exposure id="0278">
+          <theframe>000278.jpg</theframe>
+        </exposure>
+        <exposure id="0279">
+          <theframe>000279.jpg</theframe>
+        </exposure>
+        <exposure id="0280">
+          <theframe>000280.jpg</theframe>
+        </exposure>
+        <exposure id="0281">
+          <theframe>000281.jpg</theframe>
+        </exposure>
+        <exposure id="0282">
+          <theframe>000282.jpg</theframe>
+        </exposure>
+        <exposure id="0283">
+          <theframe>000283.jpg</theframe>
+        </exposure>
+        <exposure id="0284">
+          <theframe>000284.jpg</theframe>
+        </exposure>
+        <exposure id="0285">
+          <theframe>000285.jpg</theframe>
+        </exposure>
+        <exposure id="0286">
+          <theframe>000286.jpg</theframe>
+        </exposure>
+        <exposure id="0287">
+          <theframe>000287.jpg</theframe>
+        </exposure>
+        <exposure id="0288">
+          <theframe>000288.jpg</theframe>
+        </exposure>
+        <exposure id="0289">
+          <theframe>000289.jpg</theframe>
+        </exposure>
+        <exposure id="0290">
+          <theframe>000290.jpg</theframe>
+        </exposure>
+        <exposure id="0291">
+          <theframe>000291.jpg</theframe>
+        </exposure>
+        <exposure id="0292">
+          <theframe>000292.jpg</theframe>
+        </exposure>
+        <exposure id="0293">
+          <theframe>000293.jpg</theframe>
+        </exposure>
+        <exposure id="0294">
+          <theframe>000294.jpg</theframe>
+        </exposure>
+        <exposure id="0295">
+          <theframe>000295.jpg</theframe>
+        </exposure>
+        <exposure id="0296">
+          <theframe>000296.jpg</theframe>
+        </exposure>
+        <exposure id="0297">
+          <theframe>000297.jpg</theframe>
+        </exposure>
+        <exposure id="0298">
+          <theframe>000298.jpg</theframe>
+        </exposure>
+        <exposure id="0299">
+          <theframe>000299.jpg</theframe>
+        </exposure>
+        <exposure id="0300">
+          <theframe>000300.jpg</theframe>
+        </exposure>
+        <exposure id="0301">
+          <theframe>000301.jpg</theframe>
+        </exposure>
+        <exposure id="0302">
+          <theframe>000302.jpg</theframe>
+        </exposure>
+        <exposure id="0303">
+          <theframe>000303.jpg</theframe>
+        </exposure>
+        <exposure id="0304">
+          <theframe>000304.jpg</theframe>
+        </exposure>
+        <exposure id="0305">
+          <theframe>000305.jpg</theframe>
+        </exposure>
+        <exposure id="0306">
+          <theframe>000306.jpg</theframe>
+        </exposure>
+        <exposure id="0307">
+          <theframe>000307.jpg</theframe>
+        </exposure>
+        <exposure id="0308">
+          <theframe>000308.jpg</theframe>
+        </exposure>
+        <exposure id="0309">
+          <theframe>000309.jpg</theframe>
+        </exposure>
+        <exposure id="0310">
+          <theframe>000310.jpg</theframe>
+        </exposure>
+        <exposure id="0311">
+          <theframe>000311.jpg</theframe>
+        </exposure>
+        <exposure id="0312">
+          <theframe>000312.jpg</theframe>
+        </exposure>
+        <exposure id="0313">
+          <theframe>000313.jpg</theframe>
+        </exposure>
+        <exposure id="0314">
+          <theframe>000314.jpg</theframe>
+        </exposure>
+        <exposure id="0315">
+          <theframe>000315.jpg</theframe>
+        </exposure>
+        <exposure id="0316">
+          <theframe>000316.jpg</theframe>
+        </exposure>
+        <exposure id="0317">
+          <theframe>000317.jpg</theframe>
+        </exposure>
+        <exposure id="0318">
+          <theframe>000318.jpg</theframe>
+        </exposure>
+        <exposure id="0319">
+          <theframe>000319.jpg</theframe>
+        </exposure>
+        <exposure id="0320">
+          <theframe>000320.jpg</theframe>
+        </exposure>
+        <exposure id="0321">
+          <theframe>000321.jpg</theframe>
+        </exposure>
+        <exposure id="0322">
+          <theframe>000322.jpg</theframe>
+        </exposure>
+        <exposure id="0323">
+          <theframe>000323.jpg</theframe>
+        </exposure>
+        <exposure id="0324">
+          <theframe>000324.jpg</theframe>
+        </exposure>
+        <exposure id="0325">
+          <theframe>000325.jpg</theframe>
+        </exposure>
+        <exposure id="0326">
+          <theframe>000326.jpg</theframe>
+        </exposure>
+        <exposure id="0327">
+          <theframe>000327.jpg</theframe>
+        </exposure>
+        <exposure id="0328">
+          <theframe>000328.jpg</theframe>
+        </exposure>
+        <exposure id="0329">
+          <theframe>000329.jpg</theframe>
+        </exposure>
+        <exposure id="0330">
+          <theframe>000330.jpg</theframe>
+        </exposure>
+        <exposure id="0331">
+          <theframe>000331.jpg</theframe>
+        </exposure>
+        <exposure id="0332">
+          <theframe>000332.jpg</theframe>
+        </exposure>
+        <exposure id="0333">
+          <theframe>000333.jpg</theframe>
+        </exposure>
+        <exposure id="0334">
+          <theframe>000334.jpg</theframe>
+        </exposure>
+        <exposure id="0335">
+          <theframe>000335.jpg</theframe>
+        </exposure>
+        <exposure id="0336">
+          <theframe>000336.jpg</theframe>
+        </exposure>
+        <exposure id="0337">
+          <theframe>000337.jpg</theframe>
+        </exposure>
+        <exposure id="0338">
+          <theframe>000338.jpg</theframe>
+        </exposure>
+        <exposure id="0339">
+          <theframe>000339.jpg</theframe>
+        </exposure>
+        <exposure id="0340">
+          <theframe>000340.jpg</theframe>
+        </exposure>
+        <exposure id="0341">
+          <theframe>000341.jpg</theframe>
+        </exposure>
+        <exposure id="0342">
+          <theframe>000342.jpg</theframe>
+        </exposure>
+        <exposure id="0343">
+          <theframe>000343.jpg</theframe>
+        </exposure>
+        <exposure id="0344">
+          <theframe>000344.jpg</theframe>
+        </exposure>
+        <exposure id="0345">
+          <theframe>000345.jpg</theframe>
+        </exposure>
+        <exposure id="0346">
+          <theframe>000346.jpg</theframe>
+        </exposure>
+        <exposure id="0347">
+          <theframe>000347.jpg</theframe>
+        </exposure>
+        <exposure id="0348">
+          <theframe>000348.jpg</theframe>
+        </exposure>
+        <exposure id="0349">
+          <theframe>000349.jpg</theframe>
+        </exposure>
+        <exposure id="0350">
+          <theframe>000350.jpg</theframe>
+        </exposure>
+        <exposure id="0351">
+          <theframe>000351.jpg</theframe>
+        </exposure>
+        <exposure id="0352">
+          <theframe>000352.jpg</theframe>
+        </exposure>
+        <exposure id="0353">
+          <theframe>000353.jpg</theframe>
+        </exposure>
+        <exposure id="0354">
+          <theframe>000354.jpg</theframe>
+        </exposure>
+        <exposure id="0355">
+          <theframe>000355.jpg</theframe>
+        </exposure>
+        <exposure id="0356">
+          <theframe>000356.jpg</theframe>
+        </exposure>
+        <exposure id="0357">
+          <theframe>000357.jpg</theframe>
+        </exposure>
+        <exposure id="0358">
+          <theframe>000358.jpg</theframe>
+        </exposure>
+        <exposure id="0359">
+          <theframe>000359.jpg</theframe>
+        </exposure>
+        <exposure id="0360">
+          <theframe>000360.jpg</theframe>
+        </exposure>
+        <exposure id="0361">
+          <theframe>000361.jpg</theframe>
+        </exposure>
+        <exposure id="0362">
+          <theframe>000362.jpg</theframe>
+        </exposure>
+        <exposure id="0363">
+          <theframe>000363.jpg</theframe>
+        </exposure>
+        <exposure id="0364">
+          <theframe>000364.jpg</theframe>
+        </exposure>
+        <exposure id="0365">
+          <theframe>000365.jpg</theframe>
+        </exposure>
+        <exposure id="0366">
+          <theframe>000366.jpg</theframe>
+        </exposure>
+        <exposure id="0367">
+          <theframe>000367.jpg</theframe>
+        </exposure>
+        <exposure id="0368">
+          <theframe>000368.jpg</theframe>
+        </exposure>
+        <exposure id="0369">
+          <theframe>000369.jpg</theframe>
+        </exposure>
+        <exposure id="0370">
+          <theframe>000370.jpg</theframe>
+        </exposure>
+        <exposure id="0371">
+          <theframe>000371.jpg</theframe>
+        </exposure>
+        <exposure id="0372">
+          <theframe>000372.jpg</theframe>
+        </exposure>
+        <exposure id="0373">
+          <theframe>000373.jpg</theframe>
+        </exposure>
+        <exposure id="0374">
+          <theframe>000374.jpg</theframe>
+        </exposure>
+        <exposure id="0375">
+          <theframe>000375.jpg</theframe>
+        </exposure>
+        <exposure id="0376">
+          <theframe>000376.jpg</theframe>
+        </exposure>
+        <exposure id="0377">
+          <theframe>000377.jpg</theframe>
+        </exposure>
+        <exposure id="0378">
+          <theframe>000378.jpg</theframe>
+        </exposure>
+        <exposure id="0379">
+          <theframe>000379.jpg</theframe>
+        </exposure>
+        <exposure id="0380">
+          <theframe>000380.jpg</theframe>
+        </exposure>
+        <exposure id="0381">
+          <theframe>000381.jpg</theframe>
+        </exposure>
+        <exposure id="0382">
+          <theframe>000382.jpg</theframe>
+        </exposure>
+        <exposure id="0383">
+          <theframe>000383.jpg</theframe>
+        </exposure>
+        <exposure id="0384">
+          <theframe>000384.jpg</theframe>
+        </exposure>
+        <exposure id="0385">
+          <theframe>000385.jpg</theframe>
+        </exposure>
+        <exposure id="0386">
+          <theframe>000386.jpg</theframe>
+        </exposure>
+        <exposure id="0387">
+          <theframe>000387.jpg</theframe>
+        </exposure>
+        <exposure id="0388">
+          <theframe>000388.jpg</theframe>
+        </exposure>
+        <exposure id="0389">
+          <theframe>000389.jpg</theframe>
+        </exposure>
+        <exposure id="0390">
+          <theframe>000390.jpg</theframe>
+        </exposure>
+        <exposure id="0391">
+          <theframe>000391.jpg</theframe>
+        </exposure>
+        <exposure id="0392">
+          <theframe>000392.jpg</theframe>
+        </exposure>
+        <exposure id="0393">
+          <theframe>000393.jpg</theframe>
+        </exposure>
+        <exposure id="0394">
+          <theframe>000394.jpg</theframe>
+        </exposure>
+        <exposure id="0395">
+          <theframe>000395.jpg</theframe>
+        </exposure>
+        <exposure id="0396">
+          <theframe>000396.jpg</theframe>
+        </exposure>
+        <exposure id="0397">
+          <theframe>000397.jpg</theframe>
+        </exposure>
+        <exposure id="0398">
+          <theframe>000398.jpg</theframe>
+        </exposure>
+        <exposure id="0399">
+          <theframe>000399.jpg</theframe>
+        </exposure>
+        <exposure id="0400">
+          <theframe>000400.jpg</theframe>
+        </exposure>
+        <exposure id="0401">
+          <theframe>000401.jpg</theframe>
+        </exposure>
+        <exposure id="0402">
+          <theframe>000402.jpg</theframe>
+        </exposure>
+        <exposure id="0403">
+          <theframe>000403.jpg</theframe>
+        </exposure>
+        <exposure id="0404">
+          <theframe>000404.jpg</theframe>
+        </exposure>
+        <exposure id="0405">
+          <theframe>000405.jpg</theframe>
+        </exposure>
+        <exposure id="0406">
+          <theframe>000406.jpg</theframe>
+        </exposure>
+        <exposure id="0407">
+          <theframe>000407.jpg</theframe>
+        </exposure>
+        <exposure id="0408">
+          <theframe>000408.jpg</theframe>
+        </exposure>
+        <exposure id="0409">
+          <theframe>000409.jpg</theframe>
+        </exposure>
+        <exposure id="0410">
+          <theframe>000410.jpg</theframe>
+        </exposure>
+        <exposure id="0411">
+          <theframe>000411.jpg</theframe>
+        </exposure>
+        <exposure id="0412">
+          <theframe>000412.jpg</theframe>
+        </exposure>
+        <exposure id="0413">
+          <theframe>000413.jpg</theframe>
+        </exposure>
+        <exposure id="0414">
+          <theframe>000414.jpg</theframe>
+        </exposure>
+        <exposure id="0415">
+          <theframe>000415.jpg</theframe>
+        </exposure>
+        <exposure id="0416">
+          <theframe>000416.jpg</theframe>
+        </exposure>
+        <exposure id="0417">
+          <theframe>000417.jpg</theframe>
+        </exposure>
+        <exposure id="0418">
+          <theframe>000418.jpg</theframe>
+        </exposure>
+        <exposure id="0419">
+          <theframe>000419.jpg</theframe>
+        </exposure>
+        <exposure id="0420">
+          <theframe>000420.jpg</theframe>
+        </exposure>
+        <exposure id="0421">
+          <theframe>000421.jpg</theframe>
+        </exposure>
+        <exposure id="0422">
+          <theframe>000422.jpg</theframe>
+        </exposure>
+        <exposure id="0423">
+          <theframe>000423.jpg</theframe>
+        </exposure>
+        <exposure id="0424">
+          <theframe>000424.jpg</theframe>
+        </exposure>
+        <exposure id="0425">
+          <theframe>000425.jpg</theframe>
+        </exposure>
+        <exposure id="0426">
+          <theframe>000426.jpg</theframe>
+        </exposure>
+        <exposure id="0427">
+          <theframe>000427.jpg</theframe>
+        </exposure>
+        <exposure id="0428">
+          <theframe>000428.jpg</theframe>
+        </exposure>
+        <exposure id="0429">
+          <theframe>000429.jpg</theframe>
+        </exposure>
+        <exposure id="0430">
+          <theframe>000430.jpg</theframe>
+        </exposure>
+        <exposure id="0431">
+          <theframe>000431.jpg</theframe>
+        </exposure>
+        <exposure id="0432">
+          <theframe>000432.jpg</theframe>
+        </exposure>
+        <exposure id="0433">
+          <theframe>000433.jpg</theframe>
+        </exposure>
+        <exposure id="0434">
+          <theframe>000434.jpg</theframe>
+        </exposure>
+        <exposure id="0435">
+          <theframe>000435.jpg</theframe>
+        </exposure>
+        <exposure id="0436">
+          <theframe>000436.jpg</theframe>
+        </exposure>
+        <exposure id="0437">
+          <theframe>000437.jpg</theframe>
+        </exposure>
+        <exposure id="0438">
+          <theframe>000438.jpg</theframe>
+        </exposure>
+        <exposure id="0439">
+          <theframe>000439.jpg</theframe>
+        </exposure>
+        <exposure id="0440">
+          <theframe>000440.jpg</theframe>
+        </exposure>
+        <exposure id="0441">
+          <theframe>000441.jpg</theframe>
+        </exposure>
+        <exposure id="0442">
+          <theframe>000442.jpg</theframe>
+        </exposure>
+        <exposure id="0443">
+          <theframe>000443.jpg</theframe>
+        </exposure>
+        <exposure id="0444">
+          <theframe>000444.jpg</theframe>
+        </exposure>
+        <exposure id="0445">
+          <theframe>000445.jpg</theframe>
+        </exposure>
+        <exposure id="0446">
+          <theframe>000446.jpg</theframe>
+        </exposure>
+        <exposure id="0447">
+          <theframe>000447.jpg</theframe>
+        </exposure>
+        <exposure id="0448">
+          <theframe>000448.jpg</theframe>
+        </exposure>
+        <exposure id="0449">
+          <theframe>000449.jpg</theframe>
+        </exposure>
+        <exposure id="0450">
+          <theframe>000450.jpg</theframe>
+        </exposure>
+        <exposure id="0451">
+          <theframe>000451.jpg</theframe>
+        </exposure>
+        <exposure id="0452">
+          <theframe>000452.jpg</theframe>
+        </exposure>
+        <exposure id="0453">
+          <theframe>000453.jpg</theframe>
+        </exposure>
+        <exposure id="0454">
+          <theframe>000454.jpg</theframe>
+        </exposure>
+        <exposure id="0455">
+          <theframe>000455.jpg</theframe>
+        </exposure>
+        <exposure id="0456">
+          <theframe>000456.jpg</theframe>
+        </exposure>
+        <exposure id="0457">
+          <theframe>000457.jpg</theframe>
+        </exposure>
+        <exposure id="0458">
+          <theframe>000458.jpg</theframe>
+        </exposure>
+        <exposure id="0459">
+          <theframe>000459.jpg</theframe>
+        </exposure>
+        <exposure id="0460">
+          <theframe>000460.jpg</theframe>
+        </exposure>
+        <exposure id="0461">
+          <theframe>000461.jpg</theframe>
+        </exposure>
+        <exposure id="0462">
+          <theframe>000462.jpg</theframe>
+        </exposure>
+        <exposure id="0463">
+          <theframe>000463.jpg</theframe>
+        </exposure>
+        <exposure id="0464">
+          <theframe>000464.jpg</theframe>
+        </exposure>
+        <exposure id="0465">
+          <theframe>000465.jpg</theframe>
+        </exposure>
+        <exposure id="0466">
+          <theframe>000466.jpg</theframe>
+        </exposure>
+        <exposure id="0467">
+          <theframe>000467.jpg</theframe>
+        </exposure>
+        <exposure id="0468">
+          <theframe>000468.jpg</theframe>
+        </exposure>
+        <exposure id="0469">
+          <theframe>000469.jpg</theframe>
+        </exposure>
+        <exposure id="0470">
+          <theframe>000470.jpg</theframe>
+        </exposure>
+        <exposure id="0471">
+          <theframe>000471.jpg</theframe>
+        </exposure>
+        <exposure id="0472">
+          <theframe>000472.jpg</theframe>
+        </exposure>
+        <exposure id="0473">
+          <theframe>000473.jpg</theframe>
+        </exposure>
+        <exposure id="0474">
+          <theframe>000474.jpg</theframe>
+        </exposure>
+        <exposure id="0475">
+          <theframe>000475.jpg</theframe>
+        </exposure>
+        <exposure id="0476">
+          <theframe>000476.jpg</theframe>
+        </exposure>
+        <exposure id="0477">
+          <theframe>000477.jpg</theframe>
+        </exposure>
+        <exposure id="0478">
+          <theframe>000478.jpg</theframe>
+        </exposure>
+        <exposure id="0479">
+          <theframe>000479.jpg</theframe>
+        </exposure>
+        <exposure id="0480">
+          <theframe>000480.jpg</theframe>
+        </exposure>
+        <exposure id="0481">
+          <theframe>000481.jpg</theframe>
+        </exposure>
+        <exposure id="0482">
+          <theframe>000482.jpg</theframe>
+        </exposure>
+        <exposure id="0483">
+          <theframe>000483.jpg</theframe>
+        </exposure>
+        <exposure id="0484">
+          <theframe>000484.jpg</theframe>
+        </exposure>
+        <exposure id="0485">
+          <theframe>000485.jpg</theframe>
+        </exposure>
+        <exposure id="0486">
+          <theframe>000486.jpg</theframe>
+        </exposure>
+        <exposure id="0487">
+          <theframe>000487.jpg</theframe>
+        </exposure>
+        <exposure id="0488">
+          <theframe>000488.jpg</theframe>
+        </exposure>
+        <exposure id="0489">
+          <theframe>000489.jpg</theframe>
+        </exposure>
+        <exposure id="0490">
+          <theframe>000490.jpg</theframe>
+        </exposure>
+        <exposure id="0491">
+          <theframe>000491.jpg</theframe>
+        </exposure>
+        <exposure id="0492">
+          <theframe>000492.jpg</theframe>
+        </exposure>
+        <exposure id="0493">
+          <theframe>000493.jpg</theframe>
+        </exposure>
+        <exposure id="0494">
+          <theframe>000494.jpg</theframe>
+        </exposure>
+        <exposure id="0495">
+          <theframe>000495.jpg</theframe>
+        </exposure>
+        <exposure id="0496">
+          <theframe>000496.jpg</theframe>
+        </exposure>
+        <exposure id="0497">
+          <theframe>000497.jpg</theframe>
+        </exposure>
+        <exposure id="0498">
+          <theframe>000498.jpg</theframe>
+        </exposure>
+        <exposure id="0499">
+          <theframe>000499.jpg</theframe>
+        </exposure>
+        <exposure id="0500">
+          <theframe>000500.jpg</theframe>
+        </exposure>
+        <exposure id="0501">
+          <theframe>000501.jpg</theframe>
+        </exposure>
+        <exposure id="0502">
+          <theframe>000502.jpg</theframe>
+        </exposure>
+      </take>
+      <activetake>00</activetake>
+      <nexttake>1</nexttake>
+    </scene>
+    <activescene>000</activescene>
+    <nextscene>1</nextscene>
+  </animation>
+</qsmd>
